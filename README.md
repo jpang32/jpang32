@@ -1,1 +1,1 @@
-Software engineer at Capital One. Interests include machine learning, cloud architecture, and an emphasis on test-drive development.
+Software engineer at Capital One. Experience developing full-stack solutions, designing cloud architecture, and building machine learning pipelines / benchmarking ML algorithms.
